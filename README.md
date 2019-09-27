@@ -1,2 +1,2 @@
 # deep-visual-odometry
-# Implemented supervised and unsupervised visual odometry using deep learning
+# Implemented supervised visual odometry using deep learning. Will update the code shortly.
